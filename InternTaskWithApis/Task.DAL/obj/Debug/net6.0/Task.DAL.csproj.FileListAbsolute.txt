@@ -1,0 +1,12 @@
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\bin\Debug\net6.0\Task.DAL.deps.json
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\bin\Debug\net6.0\Task.DAL.dll
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\bin\Debug\net6.0\Task.DAL.pdb
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.csproj.AssemblyReference.cache
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.AssemblyInfoInputs.cache
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.AssemblyInfo.cs
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.csproj.CoreCompileInputs.cache
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.dll
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\refint\Task.DAL.dll
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\Task.DAL.pdb
+C:\Users\smc\source\repos\InternTaskWithApis\Task.DAL\obj\Debug\net6.0\ref\Task.DAL.dll

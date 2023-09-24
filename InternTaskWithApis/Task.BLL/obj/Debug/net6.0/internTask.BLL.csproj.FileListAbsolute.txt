@@ -1,0 +1,15 @@
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\bin\Debug\net6.0\internTask.BLL.deps.json
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\bin\Debug\net6.0\internTask.BLL.dll
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\bin\Debug\net6.0\internTask.BLL.pdb
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\bin\Debug\net6.0\internTask.DAL.dll
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\bin\Debug\net6.0\internTask.DAL.pdb
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.csproj.AssemblyReference.cache
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.AssemblyInfoInputs.cache
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.AssemblyInfo.cs
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.csproj.CopyComplete
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.dll
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\refint\internTask.BLL.dll
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\internTask.BLL.pdb
+C:\Users\smc\source\InternTaskWithApis\Task.BLL\obj\Debug\net6.0\ref\internTask.BLL.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "DUp1jgiv6icfbLAYtqdBHJtrOZ4VbGM42PjtsozxiwA=",
+  "Source": "InternTaskWithApis",
+  "BasePath": "_content/InternTaskWithApis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InternTaskWithApis\\wwwroot",
+      "Source": "InternTaskWithApis",
+      "ContentRoot": "C:\\Users\\smc\\source\\InternTaskWithApis\\InternTaskWithApis\\wwwroot\\",
+      "BasePath": "_content/InternTaskWithApis",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
